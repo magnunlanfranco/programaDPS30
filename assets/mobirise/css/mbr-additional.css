@@ -1620,3 +1620,44 @@ body {
 .cid-rTXXQXJo8I .mbr-text {
   text-align: left;
 }
+.cid-rTYJoG1heJ {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-rTYJoG1heJ .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rTYJoG1heJ .section-text {
+  padding: 2rem 0;
+}
+.cid-rTYJoG1heJ .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rTYJoG1heJ .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rTYJisDg9T {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rTYJisDg9T .mbr-text {
+  color: #767676;
+}
+.cid-rTYJisDg9T h4 {
+  text-align: center;
+}
+.cid-rTYJisDg9T p {
+  text-align: center;
+}
+.cid-rTYJisDg9T .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
