@@ -1490,17 +1490,18 @@ body {
 .cid-rTYxeGcrjI {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #ff3366;
 }
 .cid-rTYxeGcrjI .line {
-  background-color: #232323;
-  color: #232323;
+  background-color: #ffffff;
+  color: #ffffff;
   align: center;
   height: 2px;
   margin: 0 auto;
 }
 .cid-rTYxeGcrjI .section-text {
   padding: 2rem 0;
+  color: #ffffff;
 }
 .cid-rTYxeGcrjI .inner-container {
   margin: 0 auto;
