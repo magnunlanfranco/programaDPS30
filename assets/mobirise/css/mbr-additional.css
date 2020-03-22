@@ -1495,6 +1495,68 @@ body {
 .cid-rTXUWAEeyd .card-title {
   text-align: center;
 }
+.cid-rTYEy3uIaf {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #000000;
+}
+.cid-rTYEy3uIaf .mbr-section-text {
+  color: #767676;
+}
+.cid-rTYEy3uIaf .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rTYEy3uIaf .tabcont {
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-rTYEy3uIaf .mbr-iconfont {
+  font-size: 48px;
+}
+.cid-rTYEy3uIaf .card-img {
+  margin-bottom: 1.5rem;
+}
+.cid-rTYEy3uIaf .tab-content-row {
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-rTYEy3uIaf .tab-content {
+  margin-top: 3rem;
+  width: 100%;
+}
+.cid-rTYEy3uIaf .nav-tabs {
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  border-bottom: none;
+}
+.cid-rTYEy3uIaf .nav-tabs .nav-link {
+  box-sizing: border-box;
+  color: #767676;
+  font-style: normal;
+  font-weight: 500;
+  border-radius: 3px;
+  padding: 1rem 3rem;
+  margin: 0.4rem .8rem !important;
+  transition: color .3s;
+  border: 2px solid #767676;
+}
+.cid-rTYEy3uIaf .nav-tabs .nav-link:hover {
+  background: #cc2952;
+}
+.cid-rTYEy3uIaf .nav-tabs .nav-link.active {
+  color: #ffffff;
+  font-style: normal;
+  border: 2px solid #cc2952;
+  background: #cc2952;
+}
+.cid-rTYEy3uIaf .nav-tabs .nav-link.active:hover {
+  border: 2px solid #cc2952;
+}
+.cid-rTYEy3uIaf H2 {
+  color: #ffffff;
+}
 .cid-rTYxeGcrjI {
   padding-top: 30px;
   padding-bottom: 30px;
