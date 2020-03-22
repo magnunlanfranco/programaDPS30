@@ -1650,13 +1650,13 @@ body {
   text-align: left;
 }
 .cid-rTYJoG1heJ {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-rTYJoG1heJ .line {
-  background-color: #cc2952;
-  color: #cc2952;
+  background-color: #ffffff;
+  color: #ffffff;
   align: center;
   height: 2px;
   margin: 0 auto;
