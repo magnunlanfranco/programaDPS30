@@ -590,7 +590,7 @@
               "color": "#767676"
             },
             ".text2, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#cc2952"
             },
             "H2": {
               "color": "#000000"
