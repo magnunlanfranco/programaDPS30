@@ -1652,17 +1652,18 @@ body {
 .cid-rTYJoG1heJ {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #ffffff;
 }
 .cid-rTYJoG1heJ .line {
-  background-color: #ffffff;
-  color: #ffffff;
+  background-color: #cc2952;
+  color: #cc2952;
   align: center;
   height: 2px;
   margin: 0 auto;
 }
 .cid-rTYJoG1heJ .section-text {
   padding: 2rem 0;
+  color: #cc2952;
 }
 .cid-rTYJoG1heJ .inner-container {
   margin: 0 auto;
